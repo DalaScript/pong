@@ -2,7 +2,7 @@
 
 **Project 20/20**
 
-**In Process**
+A classic Pong Game Clone built with HTML, CSS, and JavaScript using the Canvas API. It features smooth gameplay, computer AI, dynamic ball physics, and a simple restart option.
 
 ---
 
@@ -30,16 +30,24 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/pong/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/pong)
+- [🔴 Live Demo](https://dalascript.github.io/pong/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/pong)
 
 ### 📌 Features
 
-**In Process**
+- ✅ Play against a computer opponent
+- ✅ Mouse-controlled paddle
+- ✅ Computer AI with smooth tracking
+- ✅ Dynamic ball speed and direction
+- ✅ Score system with win condition
+- ✅ Restart option after game over
 
 ### 🛠️ Built with
 
-**In Process**
+- HTML5
+- CSS3
+- JavaScript
+- Canvas API
 
 ---
 
@@ -47,11 +55,15 @@
 
 ### 🗃️ Useful resources
 
- - []()
+- [MDN – Canvas Drawing Shapes](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [MDN – CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)
+- [CSS-Tricks – requestAnimationFrame](https://css-tricks.com/using-requestanimationframe/)
+- [Google Developers – Optimize JavaScript Execution](https://developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution)
+- [MDN – Window.requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame)
 
 ### 🔙 Previous Project
 
- - Paint Clone | *Project previousProjectPart/20* → [View Repository](https://github.com/DalaScript/paint-clone)
+- Paint Clone | *Project 19/20* → [View Repository](https://github.com/DalaScript/paint-clone)
 
 ---
 
@@ -59,13 +71,13 @@
 
 ### 🌐 Connect with Me
 
- - [Instagram](https://www.instagram.com/DalaScript)
- - [YouTube](https://www.youtube.com/@DalaScript)
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
- - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
- - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
- - [GitHub](https://github.com/DalaScript)
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
